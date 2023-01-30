@@ -6,6 +6,6 @@ thirdly create a HTML file named "index.html" and copy-paste the code given in t
 same for JS and CSS file. jss file will be named "script.js" and CSS file will be named "style.css".
 HTML code already has everything linked.
 
-fourthly Make sure to have all 3 files at same place.
+fourthly Make sure to have all 3 files are in same directory.
 
 it should be working now , go ahead and enjoy !
