@@ -1,11 +1,1 @@
-Firstly its name is presetted as lofi player as i used it for lofi music , you can change it simply by editing in html code , line 4 to change title , line 11 to change name on web page.
 
-Secondly You have to create two folders named img and music. Now rename the song's name into song1,song2,song3,song4,song5,song6,song7,song8,song9,song10 & place all the songs into the music folder. Do the same process for images too.
-
-thirdly create a HTML file named "index.html" and copy-paste the code given in this repository or else just download file from this repository
-same for JS and CSS file. jss file will be named "script.js" and CSS file will be named "style.css".
-HTML code already has everything linked.
-
-fourthly Make sure to have all 3 files are in same directory.
-
-it should be working now , go ahead and enjoy !
